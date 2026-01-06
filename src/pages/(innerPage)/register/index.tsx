@@ -17,7 +17,7 @@ export default function Register() {
                 <img
                   width={537}
                   height={585}
-                  src="/images/register.jpg"
+                  src="/images/banners/banner1.jpg"
                   alt="register-image"
                 />
               </div>

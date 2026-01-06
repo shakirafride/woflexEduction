@@ -1,7 +1,5 @@
 import RootLayout from "@/layout/root";
 import About from "@/pages/(innerPage)/about";
-import Blog from "@/pages/(innerPage)/blog";
-import BlogDetails from "@/pages/(innerPage)/blog-details";
 import Contact from "@/pages/(innerPage)/contact";
 import ServiceDetails from "@/pages/(innerPage)/service-details";
 import Services from "@/pages/(innerPage)/services";
@@ -26,14 +24,6 @@ export const route = createBrowserRouter([
       {
         path: "/about",
         element: <About />,
-      },
-      {
-        path: "/blog",
-        element: <Blog />,
-      },
-      {
-        path: "/blog-details",
-        element: <BlogDetails />,
       },
       {
         path: "/contact",

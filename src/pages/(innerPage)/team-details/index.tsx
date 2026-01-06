@@ -16,7 +16,7 @@ export default function TeamDetails() {
                   <img
                     width={215}
                     height={215}
-                    src="/images/teams/team16.jpg"
+                    src="/images/teams/team1.jpg"
                     alt="team-image"
                   />
                   <div className="socials">

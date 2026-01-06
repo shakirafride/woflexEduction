@@ -46,20 +46,6 @@ export const navLinks: NavLink[] = [
                 href: "/team-details",
             },
             {
-                title: "Blog",
-                href: "#",
-                submenu: [
-                    {
-                        title: "Blog",
-                        href: "/blog",
-                    },
-                    {
-                        title: "Blog Details",
-                        href: "/blog-details",
-                    },
-                ],
-            },
-            {
                 title: "Login",
                 href: "/login",
             },

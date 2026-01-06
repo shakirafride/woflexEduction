@@ -18,14 +18,6 @@ export default function ServiceDetails() {
             </div>
             <div className="col-lg-8 col-md-12">
               <div className="service-details-desc">
-                <div className="image">
-                  <img
-                    width={851}
-                    height={557}
-                    src="/images/service-details.jpg"
-                    alt="service-details-image"
-                  />
-                </div>
                 <h2 className="fw-semibold">Web Development</h2>
                 <p>
                   Transform your business with cutting-edge web development solutions. 

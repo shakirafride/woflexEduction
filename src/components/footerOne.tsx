@@ -54,13 +54,13 @@ const FooterOne = () => {
                   <Link to="/contact">Support</Link>
                 </li>
                 <li>
-                  <Link to="/blog">Resources</Link>
+                  <Link to="/services">Resources</Link>
                 </li>
                 <li>
-                  <Link to="/blog">Help Center</Link>
+                  <Link to="/contact">Help Center</Link>
                 </li>
                 <li>
-                  <Link to="/blog">Blog</Link>
+                  <Link to="/about">About</Link>
                 </li>
               </ul>
             </div>
@@ -98,7 +98,7 @@ const FooterOne = () => {
                   <Link to="/contact">Cookies</Link>
                 </li>
                 <li>
-                  <Link to="/blog">Sitemap</Link>
+                  <Link to="/services">Sitemap</Link>
                 </li>
                 <li>
                   <Link to="/contact">Accessibility</Link>

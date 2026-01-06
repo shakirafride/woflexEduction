@@ -17,7 +17,7 @@ export default function Login() {
                 <img
                   width={537}
                   height={585}
-                  src="/images/login.jpg"
+                  src="/images/about-us/about1.jpg"
                   alt="login-image"
                 />
               </div>
