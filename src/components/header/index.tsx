@@ -1,5 +1,5 @@
 import { navLinks } from "@/db/navLinks";
-import { BRANDING, getLogo } from "@/constants/branding";
+import { getLogo } from "@/constants/branding";
 import HeaderClient from "./headerClient";
 import Navigation from "./navigation";
 
