@@ -1,0 +1,22 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Modern hexagonal background -->
+  <path d="M16 4l6 3.5v7l-6 3.5-6-3.5v-7z" fill="#A7FF37" opacity="0.2"/>
+  
+  <!-- Central hub icon -->
+  <circle cx="16" cy="11" r="2.5" fill="#A7FF37"/>
+  <circle cx="10" cy="8" r="1.5" fill="#586CEC"/>
+  <circle cx="22" cy="8" r="1.5" fill="#586CEC"/>
+  <circle cx="10" cy="14" r="1.5" fill="#586CEC"/>
+  <circle cx="22" cy="14" r="1.5" fill="#586CEC"/>
+  
+  <!-- Connection lines -->
+  <line x1="16" y1="11" x2="11.5" y2="8" stroke="#A7FF37" stroke-width="1"/>
+  <line x1="16" y1="11" x2="20.5" y2="8" stroke="#A7FF37" stroke-width="1"/>
+  <line x1="16" y1="11" x2="11.5" y2="14" stroke="#A7FF37" stroke-width="1"/>
+  <line x1="16" y1="11" x2="20.5" y2="14" stroke="#A7FF37" stroke-width="1"/>
+  
+  <!-- Modern book element -->
+  <rect x="11" y="20" width="10" height="6" rx="1.5" fill="white" stroke="#A7FF37" stroke-width="1"/>
+  <line x1="12.5" y1="22.5" x2="19.5" y2="22.5" stroke="#A7FF37" stroke-width="0.8"/>
+  <line x1="12.5" y1="24" x2="17.5" y2="24" stroke="#A7FF37" stroke-width="0.8"/>
+</svg>
